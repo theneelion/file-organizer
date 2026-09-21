@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.vscode/
+*.pyc
+contacts.json
+.organizer_state.json
+.organizer.lock
+.organizer_state_*.tmp
+.uv-cache/
+.env
